@@ -1,0 +1,8 @@
+table,banana,peace,coffee
+language,break,english,great
+dictionary,leather,seal,phone
+book,mountain,earthquake
+car,tear,elephant,trampoline,hello,bake,road
+building,leaf,software,python,coding
+kangoroo,computer,cake,fear,wine
+spoon,spear,sweater,screen,mouse,glasses
