@@ -1,0 +1,10 @@
+import test_task_01_event_probability
+import test_task_02_arrival_times
+import test_task_03_special_occurrence
+import test_task_04_punctuation_ratio
+import test_task_05_checkerboard_sum
+import test_task_06_collatz_conjecture
+import test_task_07_bank_account
+import test_task_08_phonebook_merge
+import test_task_09_nitrate_levels
+import test_task_10_overdraft_account
