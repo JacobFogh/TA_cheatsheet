@@ -1,0 +1,10 @@
+import test_task_01_distance_traveled
+import test_task_02_booklet_layout
+import test_task_03_reversed_text
+import test_task_04_first_double_peak
+import test_task_05_robust_values
+import test_task_06_population_convergence
+import test_task_07_event_manager
+import test_task_08_name_frequency
+import test_task_09_count_differences
+import test_task_10_limited_event_manager
