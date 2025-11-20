@@ -1,0 +1,10 @@
+import test_task_01_traffic_operation
+import test_task_02_orbital_period
+import test_task_03_chamber_pressure
+import test_task_04_reservoir_levels
+import test_task_05_new_price
+import test_task_06_fruit_weights
+import test_task_07_weighted_average
+import test_task_08_pattern_count
+import test_task_09_simple_tracker
+import test_task_10_advanced_tracker
